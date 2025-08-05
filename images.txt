@@ -1,1 +1,1 @@
-jgraph/drawio:28.0.7
+ghcr.io/mermaid-js/mermaid-live-editor
